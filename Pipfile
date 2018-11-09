@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+ipython = "*"
+requests = "*"
+pymongo = "*"
+notebook = "*"
+"urllib3" = "*"
+click = "*"
+flask = "*"
+elasticsearch = "*"
+elasticsearch-dsl = "*"
+mongo-connector = {version = "*", extras = ["elastic2"]}
+"elastic2-doc-manager" = {version = "*", extras = ["elastic5"]}
+elastic-doc-manager = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"

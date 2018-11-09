@@ -1,0 +1,3320 @@
+{
+    "schema": {
+        "name": "mdJson",
+        "version": "2.6.2"
+    },
+    "contact": [
+        {
+            "contactId": "4585f636-bf05-4f85-b97e-fae01d4b67e3",
+            "isOrganization": false,
+            "name": "Kelsie Murchy",
+            "positionName": "Biologist",
+            "memberOfOrganization": [
+                "8a4ef21c-d604-4536-b5cc-9f83ba3ffff6",
+                "8a4ef21c-d604-4536-b5cc-9f83ba3ffff6",
+                "8a4ef21c-d604-4536-b5cc-9f83ba3ffff6"
+            ],
+            "phone": [
+                {
+                    "phoneNumber": "608-781-6328",
+                    "service": [
+                        "voice"
+                    ]
+                },
+                {
+                    "phoneNumber": "608-7836066",
+                    "service": [
+                        "facsimile"
+                    ]
+                }
+            ],
+            "address": [
+                {
+                    "addressType": [
+                        "mailing and physical"
+                    ],
+                    "deliveryPoint": [
+                        "Upper Midwest Environmental Sciences Center, 2630 Fanta Reed Rd"
+                    ],
+                    "city": "La Crosse",
+                    "administrativeArea": "WI",
+                    "postalCode": "54603",
+                    "country": "USA"
+                }
+            ],
+            "electronicMailAddress": [
+                "kmurchy@usgs.gov"
+            ]
+        },
+        {
+            "contactId": "dc4dd835-83f0-475c-abda-751c7c7a1cbc",
+            "isOrganization": false,
+            "name": "Brooke Vetter"
+        },
+        {
+            "contactId": "5ec5afd7-6f4b-4169-af0f-cb81e2c33e4d",
+            "isOrganization": false,
+            "name": "Alan Mensinger"
+        },
+        {
+            "contactId": "8a4ef21c-d604-4536-b5cc-9f83ba3ffff6",
+            "isOrganization": true,
+            "name": "U.S. Geological Survey",
+            "address": [
+                {
+                    "addressType": [
+                        "mailing"
+                    ],
+                    "description": "Online"
+                }
+            ]
+        },
+        {
+            "contactId": "e3de7e4b-54c8-4d30-b55d-f60198f662da",
+            "isOrganization": false,
+            "name": "Brooke J Vetter"
+        },
+        {
+            "contactId": "2ba230ac-2d68-41ca-8f5b-044895de01b2",
+            "isOrganization": false,
+            "name": "Kelsie A Murchy"
+        },
+        {
+            "contactId": "700b4003-ec8e-475f-9a4e-162e70abf43d",
+            "isOrganization": false,
+            "name": "Aaron R Cupp"
+        },
+        {
+            "contactId": "28fbfe6a-d65b-4cdd-8d2b-876b3a76458a",
+            "isOrganization": false,
+            "name": "Jon J Amberg"
+        },
+        {
+            "contactId": "8437563b-8700-428c-b0bc-8b2e4630b0ae",
+            "isOrganization": false,
+            "name": "Mark P Gaikowski"
+        },
+        {
+            "contactId": "19a6eb73-b6d8-4593-ab4f-ea8c63b51754",
+            "isOrganization": false,
+            "name": "Allen F Mensiger"
+        },
+        {
+            "contactId": "7b6df402-a9f8-4f74-8aa1-0cd813aeb707",
+            "isOrganization": true,
+            "name": "Elsevier",
+            "address": [
+                {
+                    "addressType": [
+                        "mailing"
+                    ],
+                    "description": "Online"
+                }
+            ]
+        },
+        {
+            "contactId": "d6c120c5-c4db-48d1-8690-46aed8a7c494",
+            "isOrganization": false,
+            "name": "Integrated Taxonomic Information System (ITIS)",
+            "address": [
+                {
+                    "addressType": [
+                        "mailing"
+                    ],
+                    "description": "Washington, D.C."
+                }
+            ]
+        },
+        {
+            "contactId": "582543e8-e30f-4f6f-9e49-f0520f360ce0",
+            "isOrganization": true,
+            "name": "U.S. Geological Survey - ScienceBase",
+            "phone": [
+                {
+                    "phoneNumber": "1-888-275-8747",
+                    "service": [
+                        "voice"
+                    ]
+                }
+            ],
+            "address": [
+                {
+                    "addressType": [
+                        "mailing and physical"
+                    ],
+                    "deliveryPoint": [
+                        "Denver Federal Center, Building 810, Mail Stop 302"
+                    ],
+                    "city": "Denver",
+                    "administrativeArea": "CO",
+                    "postalCode": "80225",
+                    "country": "USA"
+                }
+            ],
+            "electronicMailAddress": [
+                "sciencebase@usgs.gov"
+            ]
+        }
+    ],
+    "metadata": {
+        "metadataInfo": {
+            "metadataContact": [
+                {
+                    "role": "pointOfContact",
+                    "party": [
+                        {
+                            "contactId": "4585f636-bf05-4f85-b97e-fae01d4b67e3"
+                        }
+                    ]
+                }
+            ],
+            "metadataDate": [
+                {
+                    "date": "2017-01-25",
+                    "dateType": "creation"
+                }
+            ]
+        },
+        "resourceInfo": {
+            "citation": {
+                "title": "Acoustic deterrence of bighead carp (Hypophthalmichthys nobilis) to a broadband sound stimulus: Data",
+                "date": [
+                    {
+                        "date": "2017-01-20",
+                        "dateType": "publication"
+                    }
+                ],
+                "responsibleParty": [
+                    {
+                        "role": "originator",
+                        "party": [
+                            {
+                                "contactId": "4585f636-bf05-4f85-b97e-fae01d4b67e3"
+                            },
+                            {
+                                "contactId": "dc4dd835-83f0-475c-abda-751c7c7a1cbc"
+                            },
+                            {
+                                "contactId": "5ec5afd7-6f4b-4169-af0f-cb81e2c33e4d"
+                            }
+                        ]
+                    },
+                    {
+                        "role": "publisher",
+                        "party": [
+                            {
+                                "contactId": "8a4ef21c-d604-4536-b5cc-9f83ba3ffff6"
+                            }
+                        ]
+                    }
+                ],
+                "presentationForm": [
+                    "Tabular Digital Data"
+                ],
+                "onlineResource": [
+                    {
+                        "uri": "https://dx.doi.org/10.5066/F7MP51R8",
+                        "description": "Link to the resource described in this citation"
+                    }
+                ]
+            },
+            "abstract": "Recent studies have shown the potential of acoustic deterrents against invasive silver carp (Hypophthalmichthys molitrix). This study examined the phonotaxic response of the bighead carp (H. nobilis) to pure tones (500– 2000 Hz) and playbacks of broadband sound from an underwater recording of a 100 hp outboard motor (0.06–10 kHz) in an outdoor concrete pond (10 × 5 × 1.2 m) at the U.S. Geological Survey Upper Midwest Envi- ronmental Science Center in La Crosse, WI. The number of consecutive times the fish reacted to sound from alter- nating locations at each end of the pond was assessed. Bighead carp were relatively indifferent to the pure tones with median consecutive responses ranging from 0 to 2 reactions away from the sound source. However, fish consistently exhibited significantly (P b 0.001) greater negative phonotaxis to the broadband sound (outboard motor recording) with an overall median response of 20 consecutive reactions during the 10 min trials. In over 50% of broadband sound tests, carp were still reacting to the stimulus at the end of the trial, implying that fish were not habituating to the sound. This study suggests that broadband sound may be an effective deterrent to bighead carp and provides a basis for conducting studies with wild fish.",
+            "purpose": "The data was collected to evaluate the efficacy of broadband sound as an acoustical deterrent to invasive bighead carp.",
+            "timePeriod": {
+                "description": "ground condition",
+                "startDateTime": "2014-06-01",
+                "endDateTime": "2014-08-31"
+            },
+            "status": [
+                "Complete"
+            ],
+            "pointOfContact": [
+                {
+                    "role": "pointOfContact",
+                    "party": [
+                        {
+                            "contactId": "4585f636-bf05-4f85-b97e-fae01d4b67e3"
+                        }
+                    ]
+                }
+            ],
+            "taxonomy": [
+                {
+                    "taxonomicSystem": [
+                        {
+                            "citation": {
+                                "title": "Integrated Taxonomic Information System (ITIS)",
+                                "date": [
+                                    {
+                                        "date": "2017",
+                                        "dateType": "publication"
+                                    }
+                                ],
+                                "responsibleParty": [
+                                    {
+                                        "role": "originator",
+                                        "party": [
+                                            {
+                                                "contactId": "d6c120c5-c4db-48d1-8690-46aed8a7c494"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "role": "publisher",
+                                        "party": [
+                                            {
+                                                "contactId": "d6c120c5-c4db-48d1-8690-46aed8a7c494"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "presentationForm": [
+                                    "ONLINE_REFERENCE"
+                                ],
+                                "onlineResource": [
+                                    {
+                                        "uri": "http://itis.gov",
+                                        "description": "Link to the resource described in this citation"
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "generalScope": "All fish were identified to the level of Family or Species in the data.",
+                    "observer": [
+                        {
+                            "role": "observer",
+                            "party": [
+                                {
+                                    "contactId": "4585f636-bf05-4f85-b97e-fae01d4b67e3"
+                                }
+                            ]
+                        }
+                    ],
+                    "identificationProcedure": "expert advice",
+                    "identificationCompleteness": "fish biologist were used to identify all fish used",
+                    "taxonomicClassification": {
+                        "taxonomicLevel": "Kingdom",
+                        "taxonomicName": "Animalia",
+                        "subClassification": [
+                            {
+                                "taxonomicLevel": "Subkingdom",
+                                "taxonomicName": "Bilateria",
+                                "subClassification": [
+                                    {
+                                        "taxonomicLevel": "Infrakingdom",
+                                        "taxonomicName": "Deuterostomia",
+                                        "subClassification": [
+                                            {
+                                                "taxonomicLevel": "Phylum",
+                                                "taxonomicName": "Chordata",
+                                                "subClassification": [
+                                                    {
+                                                        "taxonomicLevel": "Subphylum",
+                                                        "taxonomicName": "Vertebrata",
+                                                        "subClassification": [
+                                                            {
+                                                                "taxonomicLevel": "Infraphylum",
+                                                                "taxonomicName": "Gnathostomata",
+                                                                "subClassification": [
+                                                                    {
+                                                                        "taxonomicLevel": "Superclass",
+                                                                        "taxonomicName": "Osteichthyes",
+                                                                        "subClassification": [
+                                                                            {
+                                                                                "taxonomicLevel": "Class",
+                                                                                "taxonomicName": "Actinopterygii",
+                                                                                "subClassification": [
+                                                                                    {
+                                                                                        "taxonomicLevel": "Subclass",
+                                                                                        "taxonomicName": "Neopterygii",
+                                                                                        "subClassification": [
+                                                                                            {
+                                                                                                "taxonomicLevel": "Infraclass",
+                                                                                                "taxonomicName": "Teleostei",
+                                                                                                "subClassification": [
+                                                                                                    {
+                                                                                                        "taxonomicLevel": "Superorder",
+                                                                                                        "taxonomicName": "Ostariophysi",
+                                                                                                        "subClassification": [
+                                                                                                            {
+                                                                                                                "taxonomicLevel": "Order",
+                                                                                                                "taxonomicName": "Cypriniformes",
+                                                                                                                "subClassification": [
+                                                                                                                    {
+                                                                                                                        "taxonomicLevel": "Superfamily",
+                                                                                                                        "taxonomicName": "Cyprinoidea",
+                                                                                                                        "subClassification": [
+                                                                                                                            {
+                                                                                                                                "taxonomicLevel": "Family",
+                                                                                                                                "taxonomicName": "Cyprinidae",
+                                                                                                                                "subClassification": [
+                                                                                                                                    {
+                                                                                                                                        "taxonomicLevel": "Genus",
+                                                                                                                                        "taxonomicName": "Hypophthalmichthys",
+                                                                                                                                        "subClassification": [
+                                                                                                                                            {
+                                                                                                                                                "taxonomicLevel": "Species",
+                                                                                                                                                "taxonomicName": "Hypophthalmichthys nobilis",
+                                                                                                                                                "commonName": [
+                                                                                                                                                    "bighead carp",
+                                                                                                                                                    "carpa cabezona"
+                                                                                                                                                ]
+                                                                                                                                            }
+                                                                                                                                        ]
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ],
+            "keyword": [
+                {
+                    "keyword": [
+                        {
+                            "keyword": "sound"
+                        },
+                        {
+                            "keyword": "barrier"
+                        },
+                        {
+                            "keyword": "behavior"
+                        },
+                        {
+                            "keyword": "integrated pest management system"
+                        },
+                        {
+                            "keyword": "aquatic invasives"
+                        },
+                        {
+                            "keyword": "silver carp"
+                        },
+                        {
+                            "keyword": "bighead carp"
+                        }
+                    ],
+                    "keywordType": "theme",
+                    "thesaurus": {
+                        "title": "None"
+                    }
+                },
+                {
+                    "keyword": [
+                        {
+                            "keyword": "La Crosse, WI"
+                        }
+                    ],
+                    "keywordType": "place",
+                    "thesaurus": {
+                        "title": "None"
+                    }
+                },
+                {
+                    "keyword": [
+                        {
+                            "keyword": "Fishes"
+                        }
+                    ],
+                    "keywordType": "taxon",
+                    "thesaurus": {
+                        "title": "USGS Biocomplexity Thesaurus"
+                    }
+                }
+            ],
+            "constraint": [
+                {
+                    "type": "legal",
+                    "legal": {
+                        "useConstraint": [
+                            "None. Users are advised to read the data set's metadata thoroughly to understand appropriate use and data limitations."
+                        ],
+                        "accessConstraint": [
+                            "None. Please see 'Distribution Info' for details."
+                        ],
+                        "otherConstraint": [
+                            "None. Please see 'Distribution Info' for details.",
+                            "None. Users are advised to read the data set's metadata thoroughly to understand appropriate use and data limitations."
+                        ]
+                    }
+                }
+            ],
+            "resourceMaintenance": [
+                {
+                    "frequency": "Not planned"
+                }
+            ],
+            "environmentDescription": "Environment as of Metadata Creation: Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.4.1 (Build 5686) Service Pack N/A (Build N/A)",
+            "supplementalInfo": "Data was collected using Sony Bullet 500 TVL video cameras connected to a computer with ProGold software, then analyzed frame by frame."
+        },
+        "resourceLineage": [
+            {
+                "statement": "Behavioral experiments were conducted in an above ground 10 × 5 × 1.2 m (60 kL) outdoor concrete flow-through pond. fish that reacted to the sound (broadband, 500 Hz, 1000 Hz, 1500 Hz, 2000 Hz). using frame by frame analysis of the video recording (30 frames per second).",
+                "processStep": [
+                    {
+                        "description": "Trials conducted July-August 2014.  Behavioral experiments were conducted in an above ground 10 × 5 × 1.2 m (60 kL) outdoor concrete flow-through pond. Each group (N = 5) of ten naïve fish was allowed to acclimate in the outdoor pond for at least 48 h prior to the initiation of experiments. Five two-day trials were conducted from June through August 2014. At the conclusion of each trial, the pond was drained, refilled, and naïve fish (N = 10) added. \nSound was delivered via one of two pairs of underwater speakers (UW-30, Lubell Labs Inc., Whitehall, OH) that were placed 1.0 m from each end of the pond, 1.6 m from the nearest side-wall, 1.8 m apart, and positioned so that sound was projected along the longitudinal axis of the pond (Fig. 1). Acoustic stimuli consisted of pure tones (500, 1000, 1500, or 2000 Hz), generated by Audacity 2.0.5 software, and broadband sound, recorded underwater from an outboard motor (100 Hp 4-stroke, Yamaha, Kennesaw, GA) \nTo map the acoustic field, recordings of the broadband sound and 1000 Hz pure tone were made at 77 positions throughout the tank at a depth of 0.6 m which was the depth at which fish were most often swimming. Sound pressure levels were approximately 155 dB re 1 μPa directly in front of the speakers for both pure tones and broadband sound and dropped below 120 dB re 1 μPa at the far end of the pond (Fig. 1). All pure tone stimuli showed a narrow energy peak at the dominant frequency (Fig. 2). The broadband sound produced a spectrum of sound from 0.06–10 kHz, with maximal energy contained in two peaks from 0.06–2 kHz and 6–10 kHz (Fig. 2).",
+                        "timePeriod": {
+                            "description": "Step completion dateTime",
+                            "endDateTime": "2014-07-01"
+                        }
+                    },
+                    {
+                        "description": "Data analyzed by examining video taken during trials  January 2015.  Consecutive responses were defined as fish reacting to two or more sound presentations from opposite ends of the pond. If the fish did not cross the centerline within 30 s, remained in the same location, or swam towards the sound, then this behavior was scored as no response and the stimulus was not played from the opposite speaker pair. \nSwim speed was quantified for experimental fish that reacted to the sound (broadband, 500 Hz, 1000 Hz, 1500 Hz, 2000 Hz). using frame by frame analysis of the video recording (30 frames per second). The elapsed time from when the fish turned and swam 2.0 m away from the sound stimulus was calculated and the swim speed determined.**  For controls, fish were observed for a 10 min period of continuous swimming in the absence of sound, and the time it took the school to transverse 2 m intervals was determined.",
+                        "timePeriod": {
+                            "description": "Step completion dateTime",
+                            "endDateTime": "2015-01-01"
+                        }
+                    },
+                    {
+                        "description": "Statistical analysis using sigma plot 12.5 February - May 2015",
+                        "timePeriod": {
+                            "description": "Step completion dateTime",
+                            "endDateTime": "2015-02-01"
+                        }
+                    }
+                ]
+            }
+        ],
+        "resourceDistribution": [
+            {
+                "liabilityStatement": "Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. Distributor assumes no liability for misuse of data.",
+                "distributor": [
+                    {
+                        "contact": {
+                            "role": "distributor",
+                            "party": [
+                                {
+                                    "contactId": "582543e8-e30f-4f6f-9e49-f0520f360ce0"
+                                }
+                            ]
+                        },
+                        "orderProcess": [
+                            {
+                                "fees": "None. No fees are applicable for obtaining the data set."
+                            }
+                        ],
+                        "transferOption": [
+                            {
+                                "onlineOption": [
+                                    {
+                                        "uri": "https://dx.doi.org/10.5066/F7MP51R8"
+                                    }
+                                ],
+                                "distributionFormat": [
+                                    {
+                                        "formatSpecification": {
+                                            "title": "Tabular Digital Data",
+                                            "edition": "none",
+                                            "identifier": [
+                                                {
+                                                    "identifier": "Tabular Digital Data"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "associatedResource": [
+            {
+                "associationType": "largerWorkCitation",
+                "resourceCitation": {
+                    "title": "Acoustic deterrence of bighead carp (Hypophthalmichthys noblis) to a broadband sound stimulus",
+                    "date": [
+                        {
+                            "date": "2017-02-01",
+                            "dateType": "publication"
+                        }
+                    ],
+                    "responsibleParty": [
+                        {
+                            "role": "originator",
+                            "party": [
+                                {
+                                    "contactId": "e3de7e4b-54c8-4d30-b55d-f60198f662da"
+                                },
+                                {
+                                    "contactId": "2ba230ac-2d68-41ca-8f5b-044895de01b2"
+                                },
+                                {
+                                    "contactId": "700b4003-ec8e-475f-9a4e-162e70abf43d"
+                                },
+                                {
+                                    "contactId": "28fbfe6a-d65b-4cdd-8d2b-876b3a76458a"
+                                },
+                                {
+                                    "contactId": "8437563b-8700-428c-b0bc-8b2e4630b0ae"
+                                },
+                                {
+                                    "contactId": "19a6eb73-b6d8-4593-ab4f-ea8c63b51754"
+                                }
+                            ]
+                        },
+                        {
+                            "role": "publisher",
+                            "party": [
+                                {
+                                    "contactId": "7b6df402-a9f8-4f74-8aa1-0cd813aeb707"
+                                }
+                            ]
+                        }
+                    ],
+                    "presentationForm": [
+                        "Publication (Journal)"
+                    ],
+                    "series": {
+                        "seriesName": "Journal of Gret Lakes Research",
+                        "seriesIssue": "43, 163-171"
+                    },
+                    "onlineResource": [
+                        {
+                            "uri": "https://doi.org/10.1016/j.jglr.2016.11.009",
+                            "description": "Link to the resource described in this citation"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "dataDictionary": [
+        {
+            "citation": {
+                "title": "FGDC EntityAttribute Section 5"
+            },
+            "responsibleParty": {},
+            "dictionaryIncludedWithResource": false,
+            "domain": [
+                {
+                    "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                    "commonName": "Sound",
+                    "codeName": "Sound",
+                    "description": "FGDC enumerated domain",
+                    "domainItem": [
+                        {
+                            "name": "A",
+                            "value": "A",
+                            "definition": "100 Hz Pure tone",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        },
+                        {
+                            "name": "B",
+                            "value": "B",
+                            "definition": "Broadband sound",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "domainId": "bf6aa670-5036-438b-9c1c-a56c44f3d5f1",
+                    "commonName": "Sound",
+                    "codeName": "Sound",
+                    "description": "FGDC enumerated domain",
+                    "domainItem": [
+                        {
+                            "name": "A",
+                            "value": "A",
+                            "definition": "100 Hz Pure tone",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        },
+                        {
+                            "name": "B",
+                            "value": "B",
+                            "definition": "Broadband sound",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "domainId": "21f66560-8389-4449-ab7d-5b5630ff9691",
+                    "commonName": "Sound",
+                    "codeName": "Sound",
+                    "description": "FGDC enumerated domain",
+                    "domainItem": [
+                        {
+                            "name": "A",
+                            "value": "A",
+                            "definition": "Control No sound",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        },
+                        {
+                            "name": "B",
+                            "value": "B",
+                            "definition": "Broadband sound",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "domainId": "ede55956-6aa4-408b-9a8a-29a45afe6747",
+                    "commonName": "Sound",
+                    "codeName": "Sound",
+                    "description": "FGDC enumerated domain",
+                    "domainItem": [
+                        {
+                            "name": "A",
+                            "value": "A",
+                            "definition": "Broadband",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        },
+                        {
+                            "name": "B",
+                            "value": "B",
+                            "definition": "500 Hz",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        },
+                        {
+                            "name": "B",
+                            "value": "B",
+                            "definition": "1000 Hz",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        },
+                        {
+                            "name": "B",
+                            "value": "B",
+                            "definition": "1500 Hz",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        },
+                        {
+                            "name": "B",
+                            "value": "B",
+                            "definition": "2000 Hz",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "domainId": "af46bdcb-7526-40d5-b0cb-75927c38579a",
+                    "commonName": "Sound",
+                    "codeName": "Sound",
+                    "description": "FGDC enumerated domain",
+                    "domainItem": [
+                        {
+                            "name": "A",
+                            "value": "A",
+                            "definition": "Broadband",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        },
+                        {
+                            "name": "B",
+                            "value": "B",
+                            "definition": "500 Hz",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        },
+                        {
+                            "name": "C",
+                            "value": "C",
+                            "definition": "1000 Hz",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        },
+                        {
+                            "name": "D",
+                            "value": "D",
+                            "definition": "1500 Hz",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        },
+                        {
+                            "name": "E",
+                            "value": "E",
+                            "definition": "2000 Hz",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "domainId": "fcaded42-3ea8-469b-95f3-c2b86267697b",
+                    "commonName": "Trial",
+                    "codeName": "Trial",
+                    "description": "FGDC enumerated domain",
+                    "domainItem": [
+                        {
+                            "name": "1",
+                            "value": "1",
+                            "definition": "Trial 1",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        },
+                        {
+                            "name": "2",
+                            "value": "2",
+                            "definition": "Trial 2",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        },
+                        {
+                            "name": "3",
+                            "value": "3",
+                            "definition": "Trial 3",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        },
+                        {
+                            "name": "4",
+                            "value": "4",
+                            "definition": "Trial 4",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "domainId": "54511328-5a6a-46dc-8c5d-54fa9f9b530b",
+                    "commonName": "Sound",
+                    "codeName": "Sound",
+                    "description": "FGDC enumerated domain",
+                    "domainItem": [
+                        {
+                            "name": "A",
+                            "value": "A",
+                            "definition": "Broadband",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        },
+                        {
+                            "name": "B",
+                            "value": "B",
+                            "definition": "500 Hz",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        },
+                        {
+                            "name": "C",
+                            "value": "C",
+                            "definition": "1000 Hz",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        },
+                        {
+                            "name": "D",
+                            "value": "D",
+                            "definition": "1500 Hz",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        },
+                        {
+                            "name": "E",
+                            "value": "E",
+                            "definition": "2000 Hz",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        },
+                        {
+                            "name": "F",
+                            "value": "F",
+                            "definition": "Control no sound",
+                            "reference": {
+                                "title": "Producer defined"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "entity": [
+                {
+                    "entityId": "97936bff-72a5-43e9-ac6d-1dbe54b007e8",
+                    "codeName": "Position in pond of recording hydrophone Attribute Table",
+                    "definition": "Table containing attribute information associated with the data set.",
+                    "entityReference": [
+                        {
+                            "title": "Producer defined"
+                        }
+                    ],
+                    "attribute": [
+                        {
+                            "commonName": "Sound",
+                            "codeName": "Sound",
+                            "definition": "type of tone being produced",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af"
+                        },
+                        {
+                            "commonName": "Y distance",
+                            "codeName": "Y distance",
+                            "definition": "Along the Y axis 0-10 from north to south walls in meters",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "meter",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "0",
+                            "maxValue": "10",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "0",
+                                    "maxRangeValue": "10"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "X distance",
+                            "codeName": "X distance",
+                            "definition": "Along the X axis 0-5 from east to west walls in meters",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "meter",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "0",
+                            "maxValue": "5",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "0",
+                                    "maxRangeValue": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "SPL",
+                            "codeName": "SPL",
+                            "definition": "Sound pressure level dB re 1 uPa Amplitude of a sound wave's loudness with a pressure of 1 micropascal",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "(dB re 1 uPa)",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "120.8712",
+                            "maxValue": "156.6675",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "120.8712",
+                                    "maxRangeValue": "156.6675"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "entityId": "e64cb73a-d360-497a-96ad-c4373650116d",
+                    "codeName": "Power Spectrum from Measurement locations Attribute Table",
+                    "definition": "Table containing attribute information associated with the data set.",
+                    "entityReference": [
+                        {
+                            "title": "Producer defined"
+                        }
+                    ],
+                    "attribute": [
+                        {
+                            "commonName": "Sound",
+                            "codeName": "Sound",
+                            "definition": "type of tone being produced",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af"
+                        },
+                        {
+                            "commonName": "Frequency",
+                            "codeName": "Frequency",
+                            "definition": "frequency of sound generated in Hertz",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "Hertz",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "0",
+                            "maxValue": "9960.94",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "0",
+                                    "maxRangeValue": "9960.94"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "SPL",
+                            "codeName": "SPL",
+                            "definition": "Sound pressure level dB re 1 uPa Amplitude of a sound wave's loudness with a pressure of 1 micropascal",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "77.26",
+                            "maxValue": "150",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "77.26",
+                                    "maxRangeValue": "150"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "entityId": "78d809c5-f2a3-48f4-8e02-bd9a951f2a86",
+                    "codeName": "Power Spectrum from Measurement locations attribute Table",
+                    "definition": "The power spectrum from measurement locations in the pond is plotted versus frequency during playback of the broadband sound",
+                    "entityReference": [
+                        {
+                            "title": "Producer defined"
+                        }
+                    ],
+                    "attribute": [
+                        {
+                            "commonName": "Frequency__Hz_",
+                            "codeName": "Frequency__Hz_",
+                            "definition": "Sample sound frequency in hertz",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "Hertz",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "0",
+                            "maxValue": "9961",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "0",
+                                    "maxRangeValue": "9961"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL (0,0)",
+                            "codeName": "Relative_SPL (0,0)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-64.2411",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-64.2411",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(0,1)",
+                            "codeName": "Relative_SPL_(0,1)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-69.5279",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-69.5279",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(0,2)",
+                            "codeName": "Relative_SPL_(0,2)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-76.1019",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-76.1019",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(0,3)",
+                            "codeName": "Relative_SPL_(0,3)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-70.0622",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-70.0622",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(0,4)",
+                            "codeName": "Relative_SPL_(0,4)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-49.8132",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-49.8132",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(0,5)",
+                            "codeName": "Relative_SPL_(0,5)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-67.3769",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-67.3769",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(0,6)",
+                            "codeName": "Relative_SPL_(0,6)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-55.3015",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-55.3015",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(0,7)",
+                            "codeName": "Relative_SPL_(0,7)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-56.7106",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-56.7106",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(1,0)",
+                            "codeName": "Relative_SPL_(1,0)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-61.223",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-61.223",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(1,1)",
+                            "codeName": "Relative_SPL_(1,1)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-54.5153",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-54.5153",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(1,2)",
+                            "codeName": "Relative_SPL_(1,2)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-54.5153",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-54.5153",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(1,3)",
+                            "codeName": "Relative_SPL_(1,3)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-76.2033",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-76.2033",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(1,4)",
+                            "codeName": "Relative_SPL_(1,4)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-54.7688",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-54.7688",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(1,5)",
+                            "codeName": "Relative_SPL_(1,5)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-161.0995",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-161.0995",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(1,6)",
+                            "codeName": "Relative_SPL_(1,6)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-60",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-60",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(1,7)",
+                            "codeName": "Relative_SPL_(1,7)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-72.9594",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-72.9594",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(2,0)",
+                            "codeName": "Relative_SPL_(2,0)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-63.5435",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-63.5435",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(2,1)",
+                            "codeName": "Relative_SPL_(2,1)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-53.798",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-53.798",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(2,2)",
+                            "codeName": "Relative_SPL_(2,2)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-56.0161",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-56.0161",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(2,3)",
+                            "codeName": "Relative_SPL_(2,3)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-55.3833",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-55.3833",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(2,4)",
+                            "codeName": "Relative_SPL_(2,4)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-46.3798",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-46.3798",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(2,5)",
+                            "codeName": "Relative_SPL_(2,5)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-44.3722",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-44.3722",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(2,6)",
+                            "codeName": "Relative_SPL_(2,6)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-57",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-57",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(2,7)",
+                            "codeName": "Relative_SPL_(2,7)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-55",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-55",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(3,0)",
+                            "codeName": "Relative_SPL_(3,0)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-59.844",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-59.844",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(3,1)",
+                            "codeName": "Relative_SPL_(3,1)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-52.2504",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-52.2504",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(3,2)",
+                            "codeName": "Relative_SPL_(3,2)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-55.7881",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-55.7881",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(3,3)",
+                            "codeName": "Relative_SPL_(3,3)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-45.8118",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-45.8118",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(3,4)",
+                            "codeName": "Relative_SPL_(3,4)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-46.2096",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-46.2096",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(3,5)",
+                            "codeName": "Relative_SPL_(3,5)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-52.803",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-52.803",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(3,6)",
+                            "codeName": "Relative_SPL_(3,6)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-67",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-67",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(3,7)",
+                            "codeName": "Relative_SPL_(3,7)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-60",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-60",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(4,0)",
+                            "codeName": "Relative_SPL_(4,0)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-47.5163",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-47.5163",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(4,1)",
+                            "codeName": "Relative_SPL_(4,1)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-54.4428",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-54.4428",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(4,2)",
+                            "codeName": "Relative_SPL_(4,2)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-60",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-60",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(4,3)",
+                            "codeName": "Relative_SPL_(4,3)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-50",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-50",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(4,4)",
+                            "codeName": "Relative_SPL_(4,4)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-59",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-59",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(4,5)",
+                            "codeName": "Relative_SPL_(4,5)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-44.6853",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-44.6853",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(4,6)",
+                            "codeName": "Relative_SPL_(4,6)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-51.364",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-51.364",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(4,7)",
+                            "codeName": "Relative_SPL_(4,7)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-52.803",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-52.803",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(5,0)",
+                            "codeName": "Relative_SPL_(5,0)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-46.2096",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-46.2096",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(5,1)",
+                            "codeName": "Relative_SPL_(5,1)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-61",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-61",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(5,2)",
+                            "codeName": "Relative_SPL_(5,2)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-161.0995",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-161.0995",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(5,3)",
+                            "codeName": "Relative_SPL_(5,3)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-57.7838",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-57.7838",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(5,4)",
+                            "codeName": "Relative_SPL_(5,4)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-60.8208",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-60.8208",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(5,5)",
+                            "codeName": "Relative_SPL_(5,5)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-76.2783",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-76.2783",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(5,6)",
+                            "codeName": "Relative_SPL_(5,6)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-57.0292",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-57.0292",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(5,7)",
+                            "codeName": "Relative_SPL_(5,7)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-69.5886",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-69.5886",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(6,0)",
+                            "codeName": "Relative_SPL_(6,0)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-52",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-52",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(6,1)",
+                            "codeName": "Relative_SPL_(6,1)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-57.2038",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-57.2038",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(6,2)",
+                            "codeName": "Relative_SPL_(6,2)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-52.3819",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-52.3819",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(6,3)",
+                            "codeName": "Relative_SPL_(6,3)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-63",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-63",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(6,4)",
+                            "codeName": "Relative_SPL_(6,4)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-48",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-48",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(6,5)",
+                            "codeName": "Relative_SPL_(6,5)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-61.1267",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-61.1267",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(6,6)",
+                            "codeName": "Relative_SPL_(6,6)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-49.5489",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-49.5489",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(6,7)",
+                            "codeName": "Relative_SPL_(6,7)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-62.5453",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-62.5453",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(7,0)",
+                            "codeName": "Relative_SPL_(7,0)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-56",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-56",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(7,1)",
+                            "codeName": "Relative_SPL_(7,1)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-44.988",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-44.988",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(7,2)",
+                            "codeName": "Relative_SPL_(7,2)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-51",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-51",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(7,3)",
+                            "codeName": "Relative_SPL_(7,3)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-53.9046",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-53.9046",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(7,4)",
+                            "codeName": "Relative_SPL_(7,4)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-160",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-160",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(7,5)",
+                            "codeName": "Relative_SPL_(7,5)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-61",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-61",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(7,6)",
+                            "codeName": "Relative_SPL_(7,6)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-78.7101",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-78.7101",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(7,7)",
+                            "codeName": "Relative_SPL_(7,7)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-59.9171",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-59.9171",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(8,0)",
+                            "codeName": "Relative_SPL_(8,0)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-59.1354",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-59.1354",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(8,1)",
+                            "codeName": "Relative_SPL_(8,1)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-47.1314",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-47.1314",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(8,2)",
+                            "codeName": "Relative_SPL_(8,2)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-59",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-59",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(8,3)",
+                            "codeName": "Relative_SPL_(8,3)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-52",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-52",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(8,4)",
+                            "codeName": "Relative_SPL_(8,4)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-68.7518",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-68.7518",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(8,5)",
+                            "codeName": "Relative_SPL_(8,5)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-57",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-57",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(8,6)",
+                            "codeName": "Relative_SPL_(8,6)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-54.2642",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-54.2642",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(8,7)",
+                            "codeName": "Relative_SPL_(8,7)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-62",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-62",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(9,0)",
+                            "codeName": "Relative_SPL_(9,0)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-47",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-47",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(9,1)",
+                            "codeName": "Relative_SPL_(9,1)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-48",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-48",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(9,2)",
+                            "codeName": "Relative_SPL_(9,2)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-49.4045",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-49.4045",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(9,3)",
+                            "codeName": "Relative_SPL_(9,3)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-56.404",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-56.404",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(9,4)",
+                            "codeName": "Relative_SPL_(9,4)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-61.2592",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-61.2592",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(9,5)",
+                            "codeName": "Relative_SPL_(9,5)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-41.6894",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-41.6894",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(9,6)",
+                            "codeName": "Relative_SPL_(9,6)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-55",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-55",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(9,7)",
+                            "codeName": "Relative_SPL_(9,7)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-49",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-49",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(10,0)",
+                            "codeName": "Relative_SPL_(10,0)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-45.3942",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-45.3942",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(10,1)",
+                            "codeName": "Relative_SPL_(10,1)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-51.4042",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-51.4042",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(10,2)",
+                            "codeName": "Relative_SPL_(10,2)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-55.7951",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-55.7951",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(10,3)",
+                            "codeName": "Relative_SPL_(10,3)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-53.6455",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-53.6455",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(10,4)",
+                            "codeName": "Relative_SPL_(10,4)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-48.6722",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-48.6722",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(10,5)",
+                            "codeName": "Relative_SPL_(10,5)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-61.0487",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-61.0487",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(10,6)",
+                            "codeName": "Relative_SPL_(10,6)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-64",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-64",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Relative_SPL_(10,7)",
+                            "codeName": "Relative_SPL_(10,7)",
+                            "definition": "Relative Sound Pressure Level decibel at given x,y location",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "dB",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "-62.4148",
+                            "maxValue": "0",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "-62.4148",
+                                    "maxRangeValue": "0"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "entityId": "c965732e-cffe-4ac7-8cc8-bce298b01ca4",
+                    "codeName": "Map of Bighead carp swimming behavior Attribute Table",
+                    "definition": "Map of Bighead carp swimming behavior during a control (A) and Broadband Sound (B) trial",
+                    "entityReference": [
+                        {
+                            "title": "Producer defined"
+                        }
+                    ],
+                    "attribute": [
+                        {
+                            "commonName": "Sound",
+                            "codeName": "Sound",
+                            "definition": "type of tone being produced",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af"
+                        },
+                        {
+                            "commonName": "Time (s)",
+                            "codeName": "Time (s)",
+                            "definition": "duration of sound",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "seconds",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "0",
+                            "maxValue": "615",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "0",
+                                    "maxRangeValue": "615"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "X Position",
+                            "codeName": "X Position",
+                            "definition": "Position of Carp along the X axis in meters",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "Meters",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "0",
+                            "maxValue": "4.9",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "0",
+                                    "maxRangeValue": "4.9"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "Y Position",
+                            "codeName": "Y Position",
+                            "definition": "Position of Carp along the Y axis in meters",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "Meters",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "0",
+                            "maxValue": "9.5",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "0",
+                                    "maxRangeValue": "9.5"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "entityId": "f8a0d26e-82bf-4546-8168-9fe6adf38447",
+                    "codeName": "Mapping Representative bighead carp behavioral response to acoustic stimulation attribute Table",
+                    "definition": "The longitudinal position (m) of the center of the school was plotted versus time (s) with fish position mapped every 5 s. Acoustic stimulation = A: Broadband sound; B: 500 Hz; C: 1000 Hz; D: 1500 Hz; E. 2000 Hz; F: Control.",
+                    "entityReference": [
+                        {
+                            "title": "Producer defined"
+                        }
+                    ],
+                    "attribute": [
+                        {
+                            "commonName": "Times in seconds",
+                            "codeName": "Times in seconds",
+                            "definition": "Measured every 5 seconds",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "seconds",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "0",
+                            "maxValue": "600",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "0",
+                                    "maxRangeValue": "600"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "A Position",
+                            "codeName": "A Position",
+                            "definition": "School position in meters Broadband sound",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "Meters",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "0.5",
+                            "maxValue": "9.5",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "0.5",
+                                    "maxRangeValue": "9.5"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "B Position",
+                            "codeName": "B Position",
+                            "definition": "School position in meters 500Hz",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "Meters",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "0",
+                            "maxValue": "10",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "0",
+                                    "maxRangeValue": "10"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "C Position",
+                            "codeName": "C Position",
+                            "definition": "School position in meters 1000 Hz",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "Meters",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "0.5",
+                            "maxValue": "10",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "0.5",
+                                    "maxRangeValue": "10"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "D Position",
+                            "codeName": "D Position",
+                            "definition": "School position in meters 1500Hz",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "Meters",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "1",
+                            "maxValue": "10",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "1",
+                                    "maxRangeValue": "10"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "E Position",
+                            "codeName": "E Position",
+                            "definition": "School position in meters 2000 Hz",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "Meters",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "2",
+                            "maxValue": "10",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "2",
+                                    "maxRangeValue": "10"
+                                }
+                            ]
+                        },
+                        {
+                            "commonName": "F Position",
+                            "codeName": "F Position",
+                            "definition": "School position in meters Control no sound",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "Meters",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "0",
+                            "maxValue": "10",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "0",
+                                    "maxRangeValue": "10"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "entityId": "68700e07-392d-478f-a413-9c3b1a1f1e7c",
+                    "codeName": "Consecutive Responses attribute Table",
+                    "definition": "Table containing attribute information associated with the data set.",
+                    "entityReference": [
+                        {
+                            "title": "Producer defined"
+                        }
+                    ],
+                    "attribute": [
+                        {
+                            "commonName": "Sound",
+                            "codeName": "Sound",
+                            "definition": "type of tone being produced",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af"
+                        },
+                        {
+                            "commonName": "Consecutive responses",
+                            "codeName": "Consecutive responses",
+                            "definition": "Number of Consecutive responses per trial",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "0",
+                            "maxValue": "25",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "0",
+                                    "maxRangeValue": "25"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "entityId": "58da0c39-9af7-4ac5-b4ce-ffdb74c25b2b",
+                    "codeName": "Number of consecutive responses over time attribute Table",
+                    "definition": "Number of consecutive responses over time (from first (trial 1) to last (trial 4) trial) for each sound stimulus type: A) 500 Hz, B) 1000 Hz, C) 1500 Hz, D) 2000 Hz, E) Broadband sound.",
+                    "entityReference": [
+                        {
+                            "title": "Producer defined"
+                        }
+                    ],
+                    "attribute": [
+                        {
+                            "commonName": "Sound",
+                            "codeName": "Sound",
+                            "definition": "type of tone being produced",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af"
+                        },
+                        {
+                            "commonName": "Trial",
+                            "codeName": "Trial",
+                            "definition": "type of tone being produced",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af"
+                        },
+                        {
+                            "commonName": "Consecutive responses",
+                            "codeName": "Consecutive responses",
+                            "definition": "Number of Consecutive responses per trial",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "0",
+                            "maxValue": "29",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "0",
+                                    "maxRangeValue": "29"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "entityId": "f07a48e7-d305-4373-b618-a27960173fe8",
+                    "codeName": "Bighead carp swimming speed attribute table",
+                    "definition": "Bighead carp swimming speed (meters per second) in response to broadband sound, pure tones (500, 1000, 1500, 2000 Hz) and a no sound control",
+                    "entityReference": [
+                        {
+                            "title": "Producer defined"
+                        }
+                    ],
+                    "attribute": [
+                        {
+                            "commonName": "Sound",
+                            "codeName": "Sound",
+                            "definition": "type of tone being produced",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af"
+                        },
+                        {
+                            "commonName": "Swim speed",
+                            "codeName": "Swim speed",
+                            "definition": "fish swimming speed meters per second in response to sound",
+                            "attributeReference": {
+                                "title": "Producer defined"
+                            },
+                            "allowNull": false,
+                            "mustBeUnique": true,
+                            "units": "meter/second",
+                            "isCaseSensitive": false,
+                            "domainId": "d0ff4c6e-a9fd-44a8-ae2f-0181c60fc9af",
+                            "minValue": "0.0697",
+                            "maxValue": "4.1322",
+                            "valueRange": [
+                                {
+                                    "minRangeValue": "0.0697",
+                                    "maxRangeValue": "4.1322"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "entityId": "83edd97c-bd85-4b7b-b918-ddffa32e7819",
+                    "commonName": "Entity Overview",
+                    "codeName": "overview",
+                    "definition": "The entity and attribute information provided here describes the tabular data associated with the data set. Please review the detailed descriptions that are provided (the individual attribute descriptions) for information on the values that appear as fields/table entries of the data set.",
+                    "entityReference": [
+                        {
+                            "title": "The entity and attribute information was generated by the individual and/or agency identified as the originator of the data set. Please review the rest of the metadata record for additional details and information."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
